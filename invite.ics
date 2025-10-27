@@ -1,0 +1,97 @@
+BEGIN:VCALENDAR
+METHOD:REQUEST
+PRODID:Microsoft Exchange Server 2010
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:E. Africa Standard Time
+BEGIN:STANDARD
+DTSTART:16010101T000000
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0300
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010101T000000
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0300
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+ORGANIZER;CN=Recruitment Page (WizagKenya.com):mailto:RecruitmentPageWizagK
+ enyacom@creativebits.us
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=FALSE;CN=Brian Nzo
+ mo:mailto:briannzomo24@gmail.com
+DESCRIPTION;LANGUAGE=en-US:Recruitment Page (WizagKenya.com)\n\n\nJoin the 
+ Teams Meeting from your mobile web browser:\n https://visit.teams.microsof
+ t.com/webrtc-svc/api/route?tid=75eb1367-f9ca-42eb-b74b-d9eab662ff2b&convId
+ =19:meeting_NTZlM2U0NGYtOGVhNy00NWY1LTg5M2ItY2VjYzAwZDQyNDE2@thread.v2&oid
+ =12046d9a-84f2-4288-8a7b-009bbc16ac89&JoinWebUrl=https%3a%2f%2fteams.micro
+ soft.com%2fl%2fmeetup-join%2f19%253ameeting_NTZlM2U0NGYtOGVhNy00NWY1LTg5M2
+ ItY2VjYzAwZDQyNDE2%2540thread.v2%2f0%3fcontext%3d%257b%2522Tid%2522%253a%2
+ 52275eb1367-f9ca-42eb-b74b-d9eab662ff2b%2522%252c%2522Oid%2522%253a%252212
+ 046d9a-84f2-4288-8a7b-009bbc16ac89%2522%257d%26webjoin%3dtrue%26unified%3d
+ true&bid=RecruitmentPageWizagKenyacom@creativebits.us&biz=0&aE=False&ssid=
+ 0rfe9VcWSUqoknM6Zzb0ng2\n If you're joining from another device\, use the 
+ link below.\n\nMicrosoft Teams\n\nNeed help? https://aka.ms/JoinTeamsMeeti
+ ng?omkt=en-US\n\nJoin the meeting now: https://teams.microsoft.com/l/meetu
+ p-join/19%3ameeting_NTZlM2U0NGYtOGVhNy00NWY1LTg5M2ItY2VjYzAwZDQyNDE2%40thr
+ ead.v2/0?context=%7b%22Tid%22%3a%2275eb1367-f9ca-42eb-b74b-d9eab662ff2b%22
+ %2c%22Oid%22%3a%2212046d9a-84f2-4288-8a7b-009bbc16ac89%22%7d\n\nMeeting ID
+ : 293 823 574 250 1\nPasscode: Qi6ar3dx\n\n\n\n\n\nFor organisers\nMeeting
+  options: https://teams.microsoft.com/meetingOptions/?organizerId=12046d9a
+ -84f2-4288-8a7b-009bbc16ac89&tenantId=75eb1367-f9ca-42eb-b74b-d9eab662ff2b
+ &threadId=19_meeting_NTZlM2U0NGYtOGVhNy00NWY1LTg5M2ItY2VjYzAwZDQyNDE2@thre
+ ad.v2&messageId=0&language=en-US\n\n\n\n\n\n
+UID:040000008200E00074C5B7101A82E00800000000412F93CD6B34DC01000000000000000
+ 010000000076605059113BD44B879EF3008D75CFF
+SUMMARY;LANGUAGE=en-US:30-min Interview (Wizag Kenya) - Brian Nzomo
+DTSTART;TZID=E. Africa Standard Time:20251010T153000
+DTEND;TZID=E. Africa Standard Time:20251010T160000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20251003T134414Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:1
+LOCATION;LANGUAGE=en-US:
+X-MICROSOFT-CDO-APPT-SEQUENCE:1
+X-MICROSOFT-CDO-OWNERAPPTID:2124028436
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-ONLINEMEETINGINFORMATION:{"OnlineMeetingChannelId":null\,"Onlin
+ eMeetingProvider":3}
+X-MICROSOFT-SKYPETEAMSMEETINGURL:https://teams.microsoft.com/l/meetup-join/
+ 19%3ameeting_NTZlM2U0NGYtOGVhNy00NWY1LTg5M2ItY2VjYzAwZDQyNDE2%40thread.v2/
+ 0?context=%7b%22Tid%22%3a%2275eb1367-f9ca-42eb-b74b-d9eab662ff2b%22%2c%22O
+ id%22%3a%2212046d9a-84f2-4288-8a7b-009bbc16ac89%22%7d
+X-MICROSOFT-SCHEDULINGSERVICEUPDATEURL:https://api.scheduler.teams.microsof
+ t.com/teams/75eb1367-f9ca-42eb-b74b-d9eab662ff2b/12046d9a-84f2-4288-8a7b-0
+ 09bbc16ac89/19_meeting_NTZlM2U0NGYtOGVhNy00NWY1LTg5M2ItY2VjYzAwZDQyNDE2@th
+ read.v2/0
+X-MICROSOFT-SKYPETEAMSPROPERTIES:{"cid":"19:meeting_NTZlM2U0NGYtOGVhNy00NWY
+ 1LTg5M2ItY2VjYzAwZDQyNDE2@thread.v2"\,"rid":0\,"mid":0\,"uid":null\,"priva
+ te":true\,"type":0}
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+X-MICROSOFT-LOCATIONSOURCE:None
+X-MICROSOFT-LATITUDE:0
+X-MICROSOFT-LONGITUDE:0
+X-MICROSOFT-ACCURACY:0
+X-MICROSOFT-ALTITUDE:0
+X-MICROSOFT-ALTITUDEACCURACY:0
+X-MICROSOFT-LOCATIONS:[{"DisplayName":""\,"LocationAnnotation":""\,"Locatio
+ nUri":""\,"Latitude":0.0\,"Longitude":0.0\,"Accuracy":0.0\,"Altitude":0.0\
+ ,"AltitudeAccuracy":0.0\,"LocationStreet":""\,"LocationCity":""\,"Location
+ State":""\,"LocationCountry":""\,"LocationPostalCode":""\,"LocationFullAdd
+ ress":""}]
+BEGIN:VALARM
+DESCRIPTION:REMINDER
+TRIGGER;RELATED=START:-PT15M
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+END:VCALENDAR
